@@ -21,5 +21,5 @@ color:
 * purple
 
 [NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/477432471.jpg)
-![NKUST](nkust.jpg "高科大")
+![NKUST](477432471.jpg "高科大")
 
