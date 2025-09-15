@@ -7,8 +7,14 @@
 
 ```個人網頁:```
 `112118111 鍾昌錦`
-'QQQ'
 >啦
 >啦
 >啦
 
+>color:
+>>red
+>>orange
+>>yellow
+>>green
+>>blue
+>>purple
