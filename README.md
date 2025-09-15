@@ -6,10 +6,11 @@
 ###### 114-1a
 
 ```個人網頁:```
-`112118111 鍾昌錦`
+`C112118111 鍾昌錦`
 >啦
 >啦
->啦
+>~~啦~~
+
 
 color:
 * red
@@ -18,3 +19,5 @@ color:
 * green
 * blue
 * purple
+
+[NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/477432471.jpg)
