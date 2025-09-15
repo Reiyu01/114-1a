@@ -21,7 +21,8 @@ color:
 * purple
 
 
-```import openai
+```
+import openai
   print('openai')
 ```
 
