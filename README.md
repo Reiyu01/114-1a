@@ -11,7 +11,7 @@
 >啦
 >啦
 
->color:
+color:
 * red
 * orange
 * yellow
